@@ -1,0 +1,12 @@
+C:\javier\estudio\RestFulAPI\SocialMedia\SocialMedia.Core\bin\Debug\net7.0\SocialMedia.Core.deps.json
+C:\javier\estudio\RestFulAPI\SocialMedia\SocialMedia.Core\bin\Debug\net7.0\SocialMedia.Core.dll
+C:\javier\estudio\RestFulAPI\SocialMedia\SocialMedia.Core\bin\Debug\net7.0\SocialMedia.Core.pdb
+C:\javier\estudio\RestFulAPI\SocialMedia\SocialMedia.Core\obj\Debug\net7.0\SocialMedia.Core.csproj.AssemblyReference.cache
+C:\javier\estudio\RestFulAPI\SocialMedia\SocialMedia.Core\obj\Debug\net7.0\SocialMedia.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\javier\estudio\RestFulAPI\SocialMedia\SocialMedia.Core\obj\Debug\net7.0\SocialMedia.Core.AssemblyInfoInputs.cache
+C:\javier\estudio\RestFulAPI\SocialMedia\SocialMedia.Core\obj\Debug\net7.0\SocialMedia.Core.AssemblyInfo.cs
+C:\javier\estudio\RestFulAPI\SocialMedia\SocialMedia.Core\obj\Debug\net7.0\SocialMedia.Core.csproj.CoreCompileInputs.cache
+C:\javier\estudio\RestFulAPI\SocialMedia\SocialMedia.Core\obj\Debug\net7.0\SocialMedia.Core.dll
+C:\javier\estudio\RestFulAPI\SocialMedia\SocialMedia.Core\obj\Debug\net7.0\refint\SocialMedia.Core.dll
+C:\javier\estudio\RestFulAPI\SocialMedia\SocialMedia.Core\obj\Debug\net7.0\SocialMedia.Core.pdb
+C:\javier\estudio\RestFulAPI\SocialMedia\SocialMedia.Core\obj\Debug\net7.0\ref\SocialMedia.Core.dll

@@ -1,0 +1,15 @@
+C:\javier\estudio\RestFulAPI\SocialMedia\SocialMedia.Infrastructure\bin\Debug\net7.0\SocialMedia.Infrastructure.deps.json
+C:\javier\estudio\RestFulAPI\SocialMedia\SocialMedia.Infrastructure\bin\Debug\net7.0\SocialMedia.Infrastructure.dll
+C:\javier\estudio\RestFulAPI\SocialMedia\SocialMedia.Infrastructure\bin\Debug\net7.0\SocialMedia.Infrastructure.pdb
+C:\javier\estudio\RestFulAPI\SocialMedia\SocialMedia.Infrastructure\bin\Debug\net7.0\SocialMedia.Core.dll
+C:\javier\estudio\RestFulAPI\SocialMedia\SocialMedia.Infrastructure\bin\Debug\net7.0\SocialMedia.Core.pdb
+C:\javier\estudio\RestFulAPI\SocialMedia\SocialMedia.Infrastructure\obj\Debug\net7.0\SocialMedia.Infrastructure.csproj.AssemblyReference.cache
+C:\javier\estudio\RestFulAPI\SocialMedia\SocialMedia.Infrastructure\obj\Debug\net7.0\SocialMedia.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\javier\estudio\RestFulAPI\SocialMedia\SocialMedia.Infrastructure\obj\Debug\net7.0\SocialMedia.Infrastructure.AssemblyInfoInputs.cache
+C:\javier\estudio\RestFulAPI\SocialMedia\SocialMedia.Infrastructure\obj\Debug\net7.0\SocialMedia.Infrastructure.AssemblyInfo.cs
+C:\javier\estudio\RestFulAPI\SocialMedia\SocialMedia.Infrastructure\obj\Debug\net7.0\SocialMedia.Infrastructure.csproj.CoreCompileInputs.cache
+C:\javier\estudio\RestFulAPI\SocialMedia\SocialMedia.Infrastructure\obj\Debug\net7.0\SocialMedia.Infrastructure.csproj.CopyComplete
+C:\javier\estudio\RestFulAPI\SocialMedia\SocialMedia.Infrastructure\obj\Debug\net7.0\SocialMedia.Infrastructure.dll
+C:\javier\estudio\RestFulAPI\SocialMedia\SocialMedia.Infrastructure\obj\Debug\net7.0\refint\SocialMedia.Infrastructure.dll
+C:\javier\estudio\RestFulAPI\SocialMedia\SocialMedia.Infrastructure\obj\Debug\net7.0\SocialMedia.Infrastructure.pdb
+C:\javier\estudio\RestFulAPI\SocialMedia\SocialMedia.Infrastructure\obj\Debug\net7.0\ref\SocialMedia.Infrastructure.dll
